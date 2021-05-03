@@ -8,7 +8,7 @@ const AboutPage = () => {
     <Layout>
       <SEO title="About Blog Boost Starter" />
       <div id="about">
-        <h2>About Blog Boost Starter</h2>
+        <h2>Roger's About Page</h2>
         <p>
           <strong>Gatsby Starter Blog Boost</strong> is a Netlify CMS powered
           Gatsby Blog with a wide range of features already configured.
